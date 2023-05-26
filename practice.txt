@@ -4,3 +4,9 @@ currently I am in CDAC
 blah blah blah euuuu
 here in Karad 
 in sunbeam Institute
+
+
+This is new branch b3
+i created this branch while in master
+erlier branch b2 ws created while in b1
+I wasn't able to merge branch b2 with master
